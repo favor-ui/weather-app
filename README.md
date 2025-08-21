@@ -1,6 +1,8 @@
 # 🌦️ Real-Time Weather Dashboard
 
-![🌐 Weather Dashboard Web Page](Screenshot.png)
+![ Weather Dashboard Sample Page](Screenshot.png)
+
+![🌐 Weather Dashboard Web Page ](https://weather-app-brak.onrender.com/)
 
 This repository contains a Python-based web application that provides real-time weather updates for any city. The application is built using Plotly Dash and provides a user-friendly interface to visualize temperature, humidity, and wind speed trends for a selected city.
 

@@ -17,17 +17,18 @@ This repository contains a Python-based web application that provides real-time 
 - 🌤️ **Open-Meteo API** for weather data
 - 🗺️ **Nominatim API** for geocoding city names
 
-## ⚙️ Installation
-
-***inspiration**: 
-   ```sh
+## Inspiration
+   ```
       https://github.com/yourusername/city_weather_dashboard.git
    ```
+
+## ⚙️ Installation
+
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/yourusername/city_weather_dashboard.git
-   cd city_weather_dashboard
+   git clone https://github.com/favor-ui/weather-app.git
+   cd weather_dashboard
    ```
 
 2. **Create a virtual environment**:
@@ -51,7 +52,7 @@ This repository contains a Python-based web application that provides real-time 
 1. **Run the application**:
 
    ```sh
-   python city_weather_dashboard.py
+   python app.py
    ```
 
 2. **Open a browser** and go to `http://127.0.0.1:8050/` to access the weather dashboard.

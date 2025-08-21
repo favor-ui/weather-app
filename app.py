@@ -8,4 +8,4 @@ app.layout = layout
 # register callbacks after app exists
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
